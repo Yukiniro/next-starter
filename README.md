@@ -1,6 +1,6 @@
 # next-starter
 
-## 介绍
+## Introduce
 
 - [next.js](https://nextjs.org/)
 - [typescript](https://www.typescriptlang.org/)
